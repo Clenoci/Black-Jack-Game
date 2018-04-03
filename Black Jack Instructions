@@ -1,0 +1,27 @@
+Black Jack Instructions
+
+When Black Jack opens you will be welcomed to the table by a friendly message 
+
+Then you will be dealt two cards displayed on the screen.
+
+From there you will choose to hit, and get another card or stay with the cards you currently have.(entering 1 or 0 resoectively)
+
+Keep hitting until you feel you have a good chance to win or you bust and lose
+
+If you stay with your current cards the dealer will then look at its cards and hit until it feels it has the best chance to win without risking busting
+
+Once the Dealer finishes your hand value will be compared to the hand value of the dealer.
+
+Whoever has the highest hand value without going over 21 wins
+
+If the player recieves a card with a value 10 and an ace in their intitial hand they autmatically win with BLACKJACK and the game will end
+
+If either the player or dealer goes over 21 they will bust, get the appropriate message saying they busted and the game will end
+
+If both player and dealer have the same hand value, the game will be a tie, and pushed to the next round.
+
+After the game is over the player will be prompted to play again or quit (choosing 1 or 0 respectively)
+
+Each game a new deck will be created and reshuffled. 
+
+Happy Gambling!
